@@ -1,0 +1,77 @@
+.container {
+    background-color: #F2F27A;
+    border-radius: 75px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 800px;
+}
+
+.title {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: sofia-pro-soft, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #505050;
+    font-size: 72px;
+    font-size-adjust: auto;
+}
+
+#search_btn {
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 300px;
+}
+
+p {
+    font-family: sofia-pro-soft, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #505050;
+    font-size: 24px;
+    font-size-adjust: auto;
+}
+
+.temp {
+    text-align: center;
+    /*margin-top:0px;
+    margin-left: auto;
+    margin-right: auto;*/
+}
+
+h2 {
+    font-family: sofia-pro-soft, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 52px;
+    font-size-adjust: auto;
+    color: #505050;
+}
+
+h3 {
+    font-family: sofia-pro-soft, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 250px;
+    font-size-adjust: auto;
+    color: #505050;
+    margin-top: -75px;
+}
+
+.icon {
+    padding:30px;
+    /*max-width: 30px;
+    max-height: 30px;*/
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    align-content: center;
+}
